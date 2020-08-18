@@ -1,4 +1,5 @@
-phrase = Parent
+phrase = 
+
 
 def unsafe?(speed)
 
